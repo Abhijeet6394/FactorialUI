@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+
+}
+.container{
+    height: 500px;
+    width: 500px;
+    background-color: #c9daf5;
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+    border-radius: 1.5rem;
+    box-shadow: rgba(65, 40, 40, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+#factorial-btn{
+    margin: 1rem;
+}
+#input-text{
+    width: 15vw;
+    height: 1.5rem;
+    font-size: 1.25rem;
+}
+h2{
+    font-family: sans-serif;
+}
+#factorial-btn{
+    background-color: #5146eb;
+    color: white;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+#op{
+    font-size: 2rem;
+    color: #ff3654;
+}
